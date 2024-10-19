@@ -1,7 +1,7 @@
 # Mini-presentation-Group-8
 Report of Mini presentation Group 8 
 
-1.	Introduction
+1.	**Introduction**
 +	Information about the NBA:
 NBA (National Basketball Association) was founded in 1946. NBA stands for National Basketball Association, i.e National Basketball Association. This is the world's leading professional basketball league, based in the United States and Canada.
 	With 30 teams divided into two conferences, the NBA is not only a place for athletes to compete but also a culture and a lifestyle. NBA matches always attract millions of spectators around the world, creating a community of passionate fans. 
