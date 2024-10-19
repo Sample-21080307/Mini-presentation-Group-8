@@ -1,5 +1,24 @@
 # Mini-presentation-Group-8
 Report of Mini presentation Group 8 
+
+<title>My Website</title> <style> body { font-family: sans-serif; background-color: #f2f2f2; background-image: url("binh227.jpg"); background-size: cover; background-position: center; transition: background-color 0.5s ease-in-out; }
+.header {
+background-color: #4a4242; color: #fff; padding: 20px; text-align: center; position: relative; overflow: hidden; }
+
+.header::before { content: ""; position: absolute; top: -100%; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.3); z-index: -1; opacity: 0; transition: opacity 0.3s ease-in-out; }
+
+.header:hover::before { top: 0; opacity: 1; }
+
+.header h1 { font-size: 48px; margin: 0; position: relative; z-index: 2; animation: slideInAnimation 1s ease-in-out; }
+
+@keyframes slideInAnimation { 0% { opacity: 0; transform: translateY(-20px); } 100% { opacity: 1; transform: translateY(0); } }
+
+.header::after { content: ""; position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 100%; height: 100%; background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent); pointer-events: none; opacity: 0; z-index: -1; transition: opacity 0.3s ease-in-out; }
+
+.header:hover::after { opacity: 1; animation: gradientAnimation 2s linear infinite; }
+
+@keyframes gradientAnimation { 0% { background-position: 0% 0%; } 100% { background-position: -100% 0%; } }
+
 NBA young potential development project
 1.	Introduction
 +	Information about the NBA:
