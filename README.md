@@ -11,7 +11,8 @@ Finding and developing young talent is a vital factor for the longevity and deve
 Based on data on the statistics of basketball players in the NBA since 1950, I want to bring to the attention of the managers of the basketball association the importance of finding and developing new young talents. This not only helps improve the competitiveness of the players but also brings a breath of fresh air to the basketball sport in general and attracts many interested fans whenever new talents are discovered.
 2.	Data discussion
 
-  ![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/eac62cb0-7f7f-4eff-a8ae-1d16992d477a)
+
 
  
 2.1. Overview of data
